@@ -1,0 +1,13 @@
+# Private local data and build outputs
+tasks.db*
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+lantern-tasks
+lantern-tasks.exe
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
